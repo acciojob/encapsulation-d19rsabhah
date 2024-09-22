@@ -9,4 +9,4 @@ public class Main {
         obj.setName("Rishav das");
         System.out.println("Name: " + obj.getName());
     }
-}g
+}
